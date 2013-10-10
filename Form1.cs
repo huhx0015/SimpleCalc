@@ -8,12 +8,15 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-// PROGRAMMED BY: HUHX0015
-
-// DEBUG: TEST CASE FOR USER INPUT IN TEXT FIELD.
-// DEBUG: TEST CASE IF USER ENTERS OPERATOR AFTER VALUE, OP, VALUE SEQUENCE.
-// DEBUG: ACTION FOR -/+ BUTTON. CURRENTLY DOES NOTHING.
-// DEBUG: VALUES WITH DECIMALS DO NOT CALCULATE.
+/* SIMPLECALC
+ * Programmer: Michael Yoon Huh (huhx0015)
+ * Last Updated: 12/11/2011
+ * 
+ * DEBUG CHECKLIST
+ * DEBUG: TEST CASE FOR USER INPUT IN TEXT FIELD.
+ * DEBUG: TEST CASE IF USER ENTERS OPERATOR AFTER VALUE, OP, VALUE SEQUENCE.
+ * DEBUG: ACTION FOR -/+ BUTTON. CURRENTLY DOES NOTHING.
+ * DEBUG: VALUES WITH DECIMALS DO NOT CALCULATE. */
 
 // The SimpleCalc is a simple calculator programmed in C#, utilizing the Windows forms template. Currently does not factor in decimal or negative numbers.
 namespace SimpleCalc

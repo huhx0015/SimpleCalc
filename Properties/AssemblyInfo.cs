@@ -2,6 +2,16 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
+/* SIMPLECALC
+ * Programmer: Michael Yoon Huh (huhx0015)
+ * Last Updated: 12/11/2011
+ * 
+ * DEBUG CHECKLIST
+ * DEBUG: TEST CASE FOR USER INPUT IN TEXT FIELD.
+ * DEBUG: TEST CASE IF USER ENTERS OPERATOR AFTER VALUE, OP, VALUE SEQUENCE.
+ * DEBUG: ACTION FOR -/+ BUTTON. CURRENTLY DOES NOTHING.
+ * DEBUG: VALUES WITH DECIMALS DO NOT CALCULATE. */
+
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
