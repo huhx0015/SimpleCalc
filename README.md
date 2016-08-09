@@ -4,7 +4,7 @@ SimpleCalc
 DEVELOPER: huhx0015
 
 ### SIMPLECALC
-![simplecalc_preview](https://cloud.githubusercontent.com/assets/1645482/17165229/c726bcf0-5383-11e6-82fd-127a4d9c2ecb.png)
+![simplecalc_preview](https://cloud.githubusercontent.com/assets/1645482/17510006/bceb6c06-5dd1-11e6-81d0-afab84cf02d4.gif)
 
 ## Description
 
